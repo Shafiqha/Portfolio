@@ -52,15 +52,7 @@ const Contact = () => {
                 </div>
               </div>
               
-              <div className="flex items-center space-x-4">
-                <div className="p-3 bg-cyan-500/10 rounded-lg text-cyan-400">
-                  <Phone className="w-5 h-5" />
-                </div>
-                <div>
-                  <div className="text-sm text-gray-400">Phone</div>
-                  <div className="text-white">+91 8660165461</div>
-                </div>
-              </div>
+              
               
               <div className="flex items-center space-x-4">
                 <div className="p-3 bg-cyan-500/10 rounded-lg text-cyan-400">
